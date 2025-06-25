@@ -22,7 +22,8 @@ title: Imbr92 Blog
 email: 40306754+imbr92@users.noreply.github.com
 description: >- # this means to ignore newlines until "baseurl:"
   Simple blog for small math/programming/life things I'd like to share.
-baseurl: "/docs" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
+# baseurl: "/docs" # the subpath of your site, e.g. /blog
 url: "https://imbr92.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ""
 github_username:  imbr92
@@ -31,6 +32,13 @@ github_username:  imbr92
 theme: minima
 plugins:
   - jekyll-feed
+
+markdown: kramdown
+kramdown:
+  math_engine: mathjax
+  input: GFM
+  syntax_highlighter_opts:
+    disable : true
 
 # Exclude from processing.
 # The following items will not be processed, by default.
