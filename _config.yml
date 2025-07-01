@@ -33,12 +33,14 @@ theme: minima
 plugins:
   - jekyll-feed
 
+highlighter: rouge
 markdown: kramdown
 kramdown:
   math_engine: mathjax
   input: GFM
-  syntax_highlighter_opts:
-    disable : true
+  syntax_highlighter: rouge
+  # syntax_highlighter_opts:
+  #   disable : true
 
 # Exclude from processing.
 # The following items will not be processed, by default.

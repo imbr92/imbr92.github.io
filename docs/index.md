@@ -12,24 +12,20 @@ Welcome to my website! Hopefully making this will convince me to write more...
 
 ### **Blog**
 
-See blog
+See [blog](/blog)
 
 ### **Setup**
+
+See [setup](/setup)
+
+### **Cool Problems**
+
+See [problems](/problems)
 
 
 ### **Website Design**
 
-I initially tried to do this in pure HTML/CSS without any reliance on javascript (apart from MathJax), but I have since surrendered to Jekyll for static site gen for the time being.
-
-
-
-<!-- Inline: \\( E = mc^2 \\) -->
-<!---->
-<!-- Block: -->
-<!---->
-<!-- $$ -->
-<!-- \sum_{n=1}^\infty \frac{1}{n^2} = \frac{\pi^2}{6} -->
-<!-- $$ -->
+I initially set out to build the site in pure HTML and CSS (excluding MathJax), but maintaining it became too cumbersome — so I’ve switched to Jekyll for the time being.
 
 ### **Links**
 
