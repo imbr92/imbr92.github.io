@@ -12,15 +12,15 @@ Welcome to my website! Hopefully making this will convince me to write more...
 
 ### **Blog**
 
-See [blog](/blog)
+Notes, ideas and things I've been exploring lately. See [blog](/blog)
 
 ### **Setup**
 
-See [setup](/setup)
+Dotfiles, system tweaks, and hardware/software setups. See [setup](/setup)
 
 ### **Cool Problems**
 
-See [problems](/problems)
+Math and competitive programming problems that I've enjoyed. See [problems](/problems)
 
 
 ### **Website Design**
